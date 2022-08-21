@@ -2,7 +2,7 @@
 
 Crunchyroll Downloader NX is capable of downloading videos from the *Crunchyroll* streaming service.
 
-Fork of @seiya-dev's Crunchyroll Downloader NX
+Fork of @seiya-dev's (@izu-co) Crunchyroll Downloader NX
 
 ## Legal Warning
 
